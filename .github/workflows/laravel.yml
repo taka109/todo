@@ -8,11 +8,9 @@ on:
     types: [closed]
 
 jobs:
-  laravel-tests:
-
+  build:
     runs-on: ubuntu-latest
-
-   steps:
+    steps:
       - name: Deploy
         uses: appleboy/ssh-action@master
         with:
