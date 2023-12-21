@@ -1,0 +1,145 @@
+[33mcommit f858fc547cf769ee08b83090079d18e97f3a6239[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Fri Dec 15 19:07:33 2023 +0900
+
+    Update laravel.yml
+
+[33mcommit b6f1393d4f3efd90618b6d12f8ac09e97cf55861[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Fri Dec 15 19:05:57 2023 +0900
+
+    Update laravel.yml
+
+[33mcommit 95fd4890103392fcffaa5258c353a562d838f63b[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Thu Dec 14 22:37:12 2023 +0900
+
+    Create laravel.yml
+
+[33mcommit d3a045ed2515a070d5403904e23aa997afa47f04[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Thu Dec 14 22:35:41 2023 +0900
+
+    Delete .github/workflows directory
+
+[33mcommit 025eacf06a3a69db8eade67a62ea79bbe3da48de[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Wed Dec 13 23:36:55 2023 +0900
+
+    Update deploy.yml
+
+[33mcommit 805667a03a106d1932bc883abd2194cb3cdf7591[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Wed Dec 13 19:41:00 2023 +0900
+
+    Update deploy.yml
+    
+    変更
+
+[33mcommit 0fad39fdc205e75554f9e7a49e377fca71c1d92c[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Wed Dec 13 19:25:51 2023 +0900
+
+    Update deploy.yml
+
+[33mcommit c01d34cdf0a9783b9a79a7694356377123230236[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Wed Dec 13 18:51:44 2023 +0900
+
+    Update deploy.yml
+
+[33mcommit 3ad28780cca3fd5ace1ad30c32cef4d7322f27d7[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Tue Dec 12 23:25:31 2023 +0900
+
+    Update deploy.yml
+
+[33mcommit d443f842520403ce27f6517b4ebac9bd2121a7a6[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Tue Dec 12 23:17:39 2023 +0900
+
+    Update deploy.yml
+
+[33mcommit 481789c0d53a8e170ec704ba9dbafee44b0b50a5[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:48:47 2023 +0900
+
+    Rename laravel.yml to deploy.yml
+
+[33mcommit fe0524ab4a4002aae31a4e8e38ed037634f304a0[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:47:37 2023 +0900
+
+    Update welcome.blade.php
+
+[33mcommit 915363689c10ffad95e62dd11f3b16fd1bead854[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:44:27 2023 +0900
+
+    Create deploy.yml
+
+[33mcommit 79e75950f86518a20682fe81b999f64a07e89f83[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:41:39 2023 +0900
+
+    Delete .github/workflows/laravel.yml
+
+[33mcommit aa6e60923aa118b5800fcdbd21509977edfeeb03[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:41:24 2023 +0900
+
+    Delete .github/workflows/php.yml
+
+[33mcommit c5b4ad0a229a54989a1237d2ad86e5b6560eea52[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:41:15 2023 +0900
+
+    Delete .github/workflows/azure-webapps-php.yml
+
+[33mcommit 93185b88b05e3fc708df065817487c98977e4496[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:40:38 2023 +0900
+
+    Create azure-webapps-php.yml
+
+[33mcommit 43c8f5ca13ecc4ec04abfa37fcfece139e5a4c4b[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:38:45 2023 +0900
+
+    Create php.yml
+
+[33mcommit d8404d4f66af486e118ad756b993789fee22ffe2[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:29:54 2023 +0900
+
+    Update laravel.yml
+
+[33mcommit ed2302eb5316adbb080ac36a6f8bdd290196b889[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:16:19 2023 +0900
+
+    Update laravel.yml
+
+[33mcommit c886d78bd83630ebc90a8c908b816edca0ed463f[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Mon Dec 11 23:11:09 2023 +0900
+
+    Create laravel.yml
+
+[33mcommit 6920f94c3c21a51d2c6d164deb1b7425b102bcad[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Sun Dec 10 16:06:42 2023 +0900
+
+    Update home.blade.php
+
+[33mcommit d7fbd5962bc612afc947f1c12e84559265d5cfc3[m
+Author: taka109 <149390595+taka109@users.noreply.github.com>
+Date:   Sun Dec 10 16:05:47 2023 +0900
+
+    Update home.blade.php
+
+[33mcommit 20ace97b6a0d358f4d6292f6425fc3fbe730d5cd[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: taka109 <t0622rikuran@outlook.jp>
+Date:   Wed Dec 6 19:01:19 2023 +0900
+
+    first commit
