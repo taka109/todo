@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @extends('layout')
 
 @section('content')
@@ -21,5 +20,4 @@
     </div>
   </div>
 @endsection
-=======
->>>>>>> 8a2a036 (first)
+
